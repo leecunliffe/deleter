@@ -1,0 +1,3 @@
+public/images/*
+includes/config.php
+s3/config.inc.php
